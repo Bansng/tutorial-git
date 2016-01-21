@@ -1,0 +1,5 @@
+[submodule "Conflict"]
+	path = Conflict
+
+[submodule "Merge"]
+	path = Merge
