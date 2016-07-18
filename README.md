@@ -115,7 +115,7 @@
  
 - **SSH 설정을 해도 아이디와 비밀번호를 물어봐요!**
 
-![SSH connection string](http://www.nhpcw.com/upload/2016-07-18%2B23%253B30%253B31_071816113207.PNG)
+![SSH connection string](http://www.nhpcw.com/upload/2016-07-18%2B23%253B33%253B27_071816113339.PNG)
 
  ```shell
     혹시 HTTPS 주소를 Remote URL로 사용하는지 체크해주세요.
