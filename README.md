@@ -124,14 +124,14 @@ $ git clone https://github.com/KennethanCeyer/tutorial.git
 ![SSH remote set-url](http://www.pigno.se/static/assets/images/git_tutorial_refer_set_url.png)
 
  ```bash
-    혹시 HTTPS 주소를 Remote URL로 사용하는지 체크해주세요.
-    Remote URL은 ssh 포맷을 사용해주셔야 ssh 인증을 통해 아이디/비밀번호 입력을 넘어가실 수 있습니다.
+# 혹시 HTTPS 주소를 Remote URL로 사용하는지 체크해주세요.
+# Remote URL은 ssh 포맷을 사용해주셔야 ssh 인증을 통해 아이디/비밀번호 입력을 넘어가실 수 있습니다.
     
-    // origin의 Remote URL 변경방법.
-    git remote set-url origin git@github.com:KennethanCeyer/tutorial-git.git
+# origin의 Remote URL 변경방법.
+$ git remote set-url origin git@github.com:KennethanCeyer/tutorial-git.git
     
-    // origin의 Remote URL이 제대로 변경됬는지 체크해주세요.
-    git remote show origin
+# origin의 Remote URL이 제대로 변경됬는지 체크해주세요.
+$ git remote show origin
 ```
 
 ----
