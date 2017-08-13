@@ -216,7 +216,7 @@ $ git fetch origin master
 - 리셋은 `git reset` 명령을 사용합니다.
 
  ```bash
-4 git reset HEAD^ --soft
+$ git reset HEAD^ --soft
 ```
 
 - `git reset` 다음 인수로는 되돌리는 버전의 위치를 가리킵니다.
