@@ -103,7 +103,7 @@ $ git clone https://github.com/KennethanCeyer/tutorial.git
  
 - Settings 화면 중 우측 사이드메뉴에서 `SSH and GPG keys`를 클릭해주세요.
 
- ![Refer SSH Keys](http://www.pigno.se/static/assets/images/git_tutorial_use_sshkey.png)
+ ![Refer SSH Keys](http://www.pigno.se/static/assets/images/git_tutorial_settings_sshkey.png)
  
 - SSH Keys 화면에서 `New SSH key` 버튼을 찾아 클릭 해주세요.
 
